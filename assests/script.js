@@ -10,7 +10,6 @@ var mcb = document.querySelector("B")
 var mcc = document.querySelector("C")
 var correct = localStorage.getItem("correct")
 
-
 function test() {}
 
 
